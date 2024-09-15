@@ -1,9 +1,9 @@
-﻿using System;
-using Prime.Services;
 using Xunit;
+using Prime.Services;
 
 namespace Prime.UnitTests.Services
 {
+
     public class PrimeService_IsPrimeShould
     {
         private readonly PrimeService _primeService;
